@@ -15,6 +15,7 @@ christian-kohler.npm-intellisense
 christian-kohler.path-intellisense
 chrmarti.regex
 codeium.codeium
+continue.continue
 cweijan.dbclient-jdbc
 davidanson.vscode-markdownlint
 dbaeumer.vscode-eslint
@@ -52,6 +53,7 @@ johnpapa.vscode-peacock
 kamikillerto.vscode-colorize
 kevinrose.vsc-python-indent
 lokalise.i18n-ally
+luisclementdev.npm-visual-manager
 mechatroner.rainbow-csv
 mgmcdermott.vscode-language-babel
 mhutchie.git-graph
@@ -108,10 +110,12 @@ shengchen.vscode-checkstyle
 shinotatwu-ds.file-tree-generator
 sidthesloth.html5-boilerplate
 sonarsource.sonarlint-vscode
+stanzadev.stanza
 steoates.autoimport
 streetsidesoftware.code-spell-checker
 stylelint.vscode-stylelint
 sumitsaha.learn-with-sumit-theme
+thomas-mckanna.files2prompt
 tomoki1207.pdf
 tonybaloney.vscode-pets
 usernamehw.errorlens
