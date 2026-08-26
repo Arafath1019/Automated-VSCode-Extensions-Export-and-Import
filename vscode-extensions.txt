@@ -29,6 +29,7 @@ formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
 formulahendry.code-runner
 github.vscode-pull-request-github
+google.google-antigravity
 grapecity.gc-excelviewer
 gruntfuggly.todo-tree
 hookyqr.beautify
@@ -71,7 +72,6 @@ pranaygp.vscode-css-peek
 rangav.vscode-thunder-client
 redhat.vscode-yaml
 rvest.vs-code-prettier-eslint
-sburg.vscode-javascript-booster
 shd101wyy.markdown-preview-enhanced
 sidthesloth.html5-boilerplate
 sonarsource.sonarlint-vscode
