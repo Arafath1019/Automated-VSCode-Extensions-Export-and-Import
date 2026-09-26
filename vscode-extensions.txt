@@ -20,7 +20,6 @@ donjayamanne.python-environment-manager
 donjayamanne.python-extension-pack
 dotjoshjohnson.xml
 dsznajder.es7-react-js-snippets
-dzhavat.bracket-pair-toggler
 eamodio.gitlens
 ecmel.vscode-html-css
 editorconfig.editorconfig
@@ -36,7 +35,6 @@ hookyqr.beautify
 ionutvmi.path-autocomplete
 jakob101.relativepath
 janisdd.vscode-edit-csv
-johnpapa.vscode-peacock
 kamikillerto.vscode-colorize
 kevinrose.vsc-python-indent
 lokalise.i18n-ally
@@ -47,6 +45,7 @@ mrmlnc.vscode-scss
 ms-azuretools.vscode-containers
 ms-azuretools.vscode-docker
 ms-kubernetes-tools.vscode-kubernetes-tools
+ms-playwright.playwright
 ms-python.debugpy
 ms-python.python
 ms-python.vscode-pylance
@@ -62,7 +61,6 @@ mtxr.sqltools
 natqe.reload
 njpwerner.autodocstring
 oouo-diogo-perdigao.docthis
-openai.chatgpt
 oracle.sql-developer
 pflannery.vscode-versionlens
 pkief.material-icon-theme
@@ -71,6 +69,7 @@ postman.postman-for-vscode
 pranaygp.vscode-css-peek
 rangav.vscode-thunder-client
 redhat.vscode-yaml
+ritwickdey.liveserver
 rvest.vs-code-prettier-eslint
 shd101wyy.markdown-preview-enhanced
 sidthesloth.html5-boilerplate
